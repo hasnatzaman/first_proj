@@ -1,2 +1,2 @@
-# first_proj
+# G-IT
 Trying with github
